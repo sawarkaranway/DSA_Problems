@@ -13,13 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/sawarkaranway/DSA_Problems/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
