@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sawarkaranway/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sawarkaranway/DSA_Problems/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sawarkaranway/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sawarkaranway/DSA_Problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -46,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sawarkaranway/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/sawarkaranway/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
