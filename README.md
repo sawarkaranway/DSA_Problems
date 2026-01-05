@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sawarkaranway/DSA_Problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/sawarkaranway/DSA_Problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sawarkaranway/DSA_Problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/sawarkaranway/DSA_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
