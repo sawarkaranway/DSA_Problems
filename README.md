@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/sawarkaranway/DSA_Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/sawarkaranway/DSA_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sawarkaranway/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sawarkaranway/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sawarkaranway/DSA_Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
