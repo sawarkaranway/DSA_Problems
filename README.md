@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sawarkaranway/DSA_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sawarkaranway/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sawarkaranway/DSA_Problems/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## String Matching
 |  |
 | ------- |
