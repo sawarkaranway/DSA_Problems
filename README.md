@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sawarkaranway/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/sawarkaranway/DSA_Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sawarkaranway/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sawarkaranway/DSA_Problems/tree/master/0202-happy-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/sawarkaranway/DSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/sawarkaranway/DSA_Problems/tree/master/0202-happy-number) |
 ## Array
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sawarkaranway/DSA_Problems/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
