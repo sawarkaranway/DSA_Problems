@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sawarkaranway/DSA_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sawarkaranway/DSA_Problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/sawarkaranway/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawarkaranway/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/sawarkaranway/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sawarkaranway/DSA_Problems/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
