@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sawarkaranway/DSA_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sawarkaranway/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sawarkaranway/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sawarkaranway/DSA_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sawarkaranway/DSA_Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sawarkaranway/DSA_Problems/tree/master/0217-contains-duplicate) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sawarkaranway/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sawarkaranway/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sawarkaranway/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
