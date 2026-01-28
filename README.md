@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sawarkaranway/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sawarkaranway/DSA_Problems/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/sawarkaranway/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sawarkaranway/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sawarkaranway/DSA_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sawarkaranway/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sawarkaranway/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
